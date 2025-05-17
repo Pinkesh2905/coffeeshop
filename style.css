@@ -133,6 +133,12 @@ header .navbar{
     background: var(--primary-color);
 }
 
+.hero-image{
+    height: 466px;
+    border-radius: 132px;
+    box-shadow: 0 4px 12px rgba(200, 200, 20.25);
+}
+
 .hero-section .section-content{
     display: flex;
     align-items: center;
